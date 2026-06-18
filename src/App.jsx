@@ -5,7 +5,7 @@ import BrandKit from './pages/BrandKit'
 import AIGraphics from './pages/AIGraphics'
 import SocialMedia from './pages/SocialMedia'
 import ContentCalendar from './pages/ContentCalendar'
-import EmailCampaigns from "./pages/EmailCampaigns";
+import EmailCampaigns from "./pages/Emailcampaigns";
 
 function App() {
   const [user, setUser] = useState(null)
